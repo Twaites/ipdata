@@ -27,9 +27,4 @@ node_modules
 .env
 
 # Build directory
-*
-
-!*lib
-!*package.json
-!*LICENSE
-!README.MD
+lib
